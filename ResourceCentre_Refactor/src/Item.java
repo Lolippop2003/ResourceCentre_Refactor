@@ -20,7 +20,7 @@ public class Item {
 				dueDate);
 		
 		return itemInfo;
-	}
+	} 
 	
 	public String showAvailability(boolean isAvailable) {
 		String avail;

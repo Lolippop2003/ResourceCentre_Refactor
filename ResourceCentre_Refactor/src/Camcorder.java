@@ -6,7 +6,7 @@ public class Camcorder extends Item{
 		super(assetTag, description);
 		this.opticalZoom = opticalZoom;
 	}
-
+ 
 	public int getOpticalZoom() {
 		return opticalZoom;
 	}
