@@ -19,7 +19,6 @@ public class Camcorder extends Item{
 		
 		return output;
 		
-		//ss
 	}
 }
 
