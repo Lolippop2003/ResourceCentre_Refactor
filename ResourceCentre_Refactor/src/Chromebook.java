@@ -9,7 +9,7 @@ public class Chromebook extends Item{
 
 	public String getOs() {
 		return os;
-	}  
+	}
 	
 	public String toString(){
 		
@@ -17,8 +17,8 @@ public class Chromebook extends Item{
 		String output = super.toString();
 		output += String.format("%-63s %-20d", output, getOs());
 		
-		return output;
+		return output; 
 	}
-}
+} 
 
 
