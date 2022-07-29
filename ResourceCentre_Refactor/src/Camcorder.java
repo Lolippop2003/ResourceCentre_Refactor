@@ -1,4 +1,4 @@
-//testing the commit -Jun Yan
+//testing the commit in camcorder -Jun Yan
 public class Camcorder extends Item{
 	private int opticalZoom;
 
