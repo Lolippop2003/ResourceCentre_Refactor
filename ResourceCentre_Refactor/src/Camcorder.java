@@ -1,4 +1,5 @@
 //testing the commit in camcorder -Jun Yan
+//testing the commit in camorder - Daren Lee
 public class Camcorder extends Item{
 	private int opticalZoom;
 
@@ -12,7 +13,6 @@ public class Camcorder extends Item{
 	}
 	
 	public String toString(){
-		
 		// Write your codes here
 		String output = super.toString();
 		output += String.format("%-63s %-20d", output, opticalZoom);
